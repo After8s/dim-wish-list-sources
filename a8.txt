@@ -3,7 +3,6 @@ description:Thanks to u/Mercules904, u/pandapaxxy, u/HavocsCall, @chrisfried, an
 
 //A8 Edition
 dimwishlist:item=3993415705?perks=1458010786,981914802,3301904089,2846385770,3713839994,4248210736,2788909693,654849177,0,2285418970
-dimwishlist:item=153979399?perks=1322370662,1467527085,3142289711,2387244414,2720533289,0,4248210736,3336648220,684616255,2285418970
 
 // Mercules' Erentil FR4 breakdown
 // https://www.reddit.com/r/DestinyTheGame/comments/cbxao7/massive_breakdown_of_erentil_fr4_including_stats/
