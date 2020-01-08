@@ -1,7 +1,7 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, u/HavocsCall, @chrisfried, and @sundevour for their contributions. Ping u/48klocs / @48klocs with any issues.
 
-//A8 Edition
+// A8 Edition
 dimwishlist:item=3993415705?perks=1458010786,981914802,3301904089,2846385770,3713839994,4248210736,2788909693,654849177,0,2285418970
 
 // Mercules' Erentil FR4 breakdown
