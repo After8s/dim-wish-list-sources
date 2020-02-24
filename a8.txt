@@ -1,5 +1,8 @@
 title:This is a compiled collection of god/recommended rolls from top community minds and the mugs from the A8s
 
+// The Vow
+dimwishlist:item=2009106091&perks=2108556049,852209214,1500996326,247725512,1639384016
+
 // The Mountaintop
 dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3713839994,654849177
 dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3713839994,1154004463
