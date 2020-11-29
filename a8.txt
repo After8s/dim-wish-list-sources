@@ -24,6 +24,10 @@ dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3713839994,115
 dimwishlist:item=153979399&perks=1467527085,3142289711,2387244414,2720533289,684616255
 dimwishlist:item=153979399&perks=1467527085,3142289711,2387244414,2720533289,2697220197
 
+// Night Watch
+//notes: Daryl's Night Watch pick
+dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,2458213969
+
 // Astral Horizon (Adept)
 //notes:pandapaxxy (Controller / PvE): "Did you ask for a kinetic Mindbenders? Because we got a kinetic Mindbenders. In PvE Swash or 1-2p is certainly the way to go for chunking down majors or ultras but you should have one already. And if you’re going into trials looking for a PvE shotgun you’re mistaken." Recommended MW - Reload.|tags:controller,pve
 dimwishlist:item=532746994&perks=1300023272,1087426260,3300816228,4082225868
