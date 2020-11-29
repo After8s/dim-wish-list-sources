@@ -1,16 +1,19 @@
 title: This is a compiled collection of god/recommended rolls from top community minds and the mugs from the A8s.
 
 // Jedd's additions
+//notes: Jedds's pick
 dimwishlist:item=946443267&perks=1840239774,689005463,247725512,1771339417
 dimwishlist:item=1807343361&perks=1332244541,1087426260,2869569095,3523296417
 dimwishlist:item=1821724780&perks=1332244541,791862061,1556840489,1546637391
 dimwishlist:item=1179141605&perks=1047830412,3142289711,706527188,47981717
 dimwishlist:item=2742490609&perks=4090651448,1087426260,1820235745,2848615171
 
-// Danni's additions
+// Duke Mk. 44
+//notes: Danni's pick
 dimwishlist:item=2112909414&perks=1926090094,247725512,679225683,3425386926
 
-// Xander's additions
+// The Old Fashioned
+//notes: Xander's pick
 dimwishlist:item=3569802112&perks=1926090093,3177308360,3523296417,3038247973
 
 // Curated Gnawing Hunger
@@ -25,7 +28,7 @@ dimwishlist:item=153979399&perks=1467527085,3142289711,2387244414,2720533289,684
 dimwishlist:item=153979399&perks=1467527085,3142289711,2387244414,2720533289,2697220197
 
 // Night Watch
-//notes: Daryl's Night Watch pick
+//notes: Daryl's pick
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,2458213969
 
 // Astral Horizon (Adept)
