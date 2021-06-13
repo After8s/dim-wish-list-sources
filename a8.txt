@@ -31,9 +31,6 @@ dimwishlist:item=153979399&perks=1467527085,3142289711,2387244414,2720533289,269
 //notes: Daryl's pick
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,2458213969
 
-title:Sharditkeepit Community S14 community favorites for Override, Iron Banner, and Trials
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/nhaq1m/filling_the_void_of_upandapaxxy_the_experimental/ and https://www.reddit.com/r/sharditkeepit/comments/npwigw/communitysourced_season_of_the_splicer_breakdown/
-
 // Chroma Rush
 //notes:Sharditkeepit Community: PVE - Experimental Community-Sourced Weapons Preferences Survey
 dimwishlist:item=1119734784&perks=1482024992,106909392,1820235745,3425386926
